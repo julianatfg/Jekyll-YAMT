@@ -1,12 +1,12 @@
 # Site settings
 title: YAMT
 description: "Yet Another Minimal Theme"
-url:  "https://yamt.netlify.app" # Actual base url of the website
+url:  "https://sub-london.netlify.app" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "Juliana Goulart"
+  email: "jufilhote@id.uff.br"
+  url: "https://julianatfg.github.io"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
@@ -18,7 +18,7 @@ paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: pandasekh
+  username: juleees
   card: summary
 facebook:
   app_id: # Facebook app ID for Facebook insights
@@ -27,9 +27,9 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://twitter.com/juleees
+    - https://www.github.com/julianatfg
+    - https://instagram.com/sublondon
 webmaster_verifications:
   google: 
   bing: 
