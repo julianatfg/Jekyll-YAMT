@@ -11,9 +11,8 @@ Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-
 * random line to make it work. This will be removed.
 {:toc}
 
-
-
 ## Styling text
+
 **bold**
 {% highlight markdown %}
 **bold**
@@ -35,6 +34,7 @@ Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-
 {% endhighlight %}
 
 ## Quotes
+
 >This is a quote
 {% highlight markdown %}
 >This is a quote
@@ -49,6 +49,7 @@ Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-
 {% endhighlight %}
 
 ## Links
+
 Theme designed by [Alessio Franceschi](https://alessiofranceschi.me).
 {% highlight markdown %}
 Theme designed by [Alessio Franceschi](https://alessiofranceschi.me).
@@ -60,7 +61,9 @@ Links can also be relative. [Like this one](/contact.html).
 {% endhighlight %}
 
 ## Lists
+
 Unordered:
+
 - this
 - is
 - unordered
@@ -71,6 +74,7 @@ Unordered:
 {% endhighlight %}  
 
 Ordered:
+
 1. but
 2. this
 3. is
@@ -84,10 +88,13 @@ Ordered:
 
 Nested:
 1. First point
+
     - but also this
     - and also this
         - and this one too
+
 2. Second point
+
 {% highlight markdown %}
 1. First point
     - but also this
